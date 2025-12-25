@@ -43,4 +43,9 @@
 
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
+[Light](https://github.com/Furious992/lighthouse-role)
+
+
+[Vector](https://github.com/Furious992/vector-role)
+
 ---
